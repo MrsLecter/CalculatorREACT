@@ -1,6 +1,6 @@
 ## About
 
-Simple Calculator app created with React.js
+Simple Calculator app created with React.js & TypeScript
 
 ## Live Demo
 
@@ -10,9 +10,7 @@ https://mrslecter.github.io/calculatorreact
 
 <img src="https://github.com/MrsLecter/CalculatorREACT/blob/main/screenshot.png" alt="screenshot" width="380"/>
 
-## Available Scripts
-
-In the project directory, you can run:
+## Available abilities
 
 ### `npm start`
 
