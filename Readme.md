@@ -4,7 +4,7 @@ Simple Calculator app created with React.js & TypeScript
 
 ## Live Demo
 
-https://mrslecter.github.io/calculatorreact
+https://mrslecter.github.io/CalculatorREACT/
 
 ## Screenshot
 
