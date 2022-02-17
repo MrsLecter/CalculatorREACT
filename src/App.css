@@ -1,0 +1,71 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wrapper {
+  width: 240px;
+  border:  1px solid #272643;
+}
+
+.displayBox {
+  height: 100px;
+  padding: 30px;
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  font-size: 32px;
+  color: white;
+  background-color: #134d6fe1;
+}
+
+.keyboard {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.buttonSmall, .buttonSmallY, .buttonSmallR {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 60px;
+  font-size: 24px;
+  color: white;
+  border: none;
+}
+
+.buttonSmall{
+  background-color:#134d6fdc;
+}
+
+.buttonSmallY{
+  background-color:#ecb620e7;
+}
+
+.buttonSmallR{
+  background-color:#fd8c80e7;
+}
+
+.buttonSmall:hover {
+  background-color: #1ac0c6;
+}
+
+.buttonSmallY:hover{
+  background-color: #d3a321fb;
+}
+
+.buttonSmallR:hover{
+  background-color: #ff6150;
+}
