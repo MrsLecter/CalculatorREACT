@@ -8,7 +8,7 @@ https://mrslecter.github.io/calculatorreact
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/mrslecter/calculatorreact/screenshot.png" alt="screenshot" width="380"/>
+<img src="https://github.com/MrsLecter/CalculatorREACT/blob/main/screenshot.png" alt="screenshot" width="380"/>
 
 ## Available Scripts
 
